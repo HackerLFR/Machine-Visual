@@ -1,2 +1,2 @@
-# Meachine-Visual
+# Machine-Visual
 about digital image process
