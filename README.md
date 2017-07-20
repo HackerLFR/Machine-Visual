@@ -7,7 +7,7 @@
 
 # 欢迎来到LFR的博客
 ![baidu](http://www.baidu.com/img/bdlogo.gif)
-[![baidu]]:(http://baidu.com)
+![baidu](http://baidu.com)
 ```markdown
 Syntax highlighted code block
 
