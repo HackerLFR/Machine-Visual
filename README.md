@@ -6,7 +6,7 @@
 [My Project Web](https://github.com/HackerLFR/Machine-Visual) to use the Project.
 
 # 欢迎来到LFR的博客
-
+![baidu](http://www.baidu.com/img/bdlogo.gif)
 
 ```markdown
 Syntax highlighted code block
