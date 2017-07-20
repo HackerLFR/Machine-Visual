@@ -10,21 +10,10 @@
 
 ```markdown
 
-Syntax highlighted code block
-
- 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
 当前项目名称:简单物体识别
->
+1.原理
+2.应用
+3.开发实践
 >>
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 ### 开源版权归属于开发者,不得商业用途,使用时需加:注转载于原创开发者的项目网址,否者视为侵权!
