@@ -5,9 +5,8 @@
 ## If you speak English, Please go ahead: 
 [My Project Web](https://github.com/HackerLFR/Machine-Visual) to use the Project.
 
-### Markdown
+### 欢迎来到LFR的博客
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -20,8 +19,7 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List
+当前项目名称:简单物体识别
 
 **Bold** and _Italic_ and `Code` text
 
