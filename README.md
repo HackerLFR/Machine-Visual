@@ -6,7 +6,7 @@
 # 欢迎来到LFR的博客:
 
 <center> <img src="http://www.baidu.com/img/bdlogo.gif"> </center>
-<a href="http://www.baidu.com"><center><font size="2">百度</font></center></a>
+<a href="http://www.baidu.com"><center> <font size="8">百度</font> </center></a>
 
 ```markdown
 
