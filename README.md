@@ -28,5 +28,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 ### 开源版权归属于开发者,不得商业用途,使用时需加:注转载于原创开发者的项目网址,否者视为侵权!
-
-
