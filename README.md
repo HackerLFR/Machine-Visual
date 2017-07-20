@@ -4,7 +4,7 @@
    [My Project Web](https://github.com/HackerLFR/Machine-Visual) to use the Project.
 
 
-
+<center>欢迎来到LFR的博客 ==</center>
 # 欢迎来到LFR的博客
 
 
