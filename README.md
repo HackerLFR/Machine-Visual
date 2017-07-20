@@ -1,4 +1,4 @@
-##                            Welcome to LFR's GitHub Pages
+## Welcome to LFR's GitHub Pages
 ![](https://github.com/HackerLFR/Machine-Visual/raw/master/2015031561739629.gif)
 ## If you speak English, Please go ahead: 
    [My Project Web](https://github.com/HackerLFR/Machine-Visual) to use the Project.
@@ -9,7 +9,7 @@
 
 
 
-![baidu](http://www.baidu.com/img/bdlogo.gif)
+<center>![baidu](http://www.baidu.com/img/bdlogo.gif)</center>
 
 
 [              百度](http://baidu.com)
