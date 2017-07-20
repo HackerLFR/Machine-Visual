@@ -9,7 +9,7 @@
 
 
 ![baidu](http://www.baidu.com/img/bdlogo.gif)
-<center>da</center>
+<center># 欢迎来到LFR的博客</center>
 
 
 [              百度](http://baidu.com)
