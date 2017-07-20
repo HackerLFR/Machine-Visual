@@ -1,9 +1,9 @@
-## Welcome to LFR's GitHub Pages!
+# Welcome to LFR's GitHub Pages!
 <center> <img src="https://github.com/HackerLFR/Machine-Visual/raw/master/2015031561739629.gif"> </center>
 ## If you speak English, Please go ahead:
 <a href="https://github.com/HackerLFR/Machine-Visual">  <center> <font size="6">My Project Web</font> </center></a>
 
-# 欢迎来到LFR的博客:
+## 欢迎来到LFR的博客:
 
 <center> <img src="http://www.baidu.com/img/bdlogo.gif"> </center>
 <a href="http://www.baidu.com"><center> <font size="6"> 百度</font> </center></a>
