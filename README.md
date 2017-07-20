@@ -8,7 +8,7 @@
 
 
 ![baidu](http://www.baidu.com/img/bdlogo.gif)
-<center><img src="http://www.baidu.com/img/bdlogo.gif"/></center>
+<center> <img src="http://www.baidu.com/img/bdlogo.gif"> </center>
 
 
 [              百度](http://baidu.com)
