@@ -9,7 +9,6 @@
 <a href="http://www.baidu.com"><center> <font size="6"> 百度</font> </center></a>
 
 ```markdown
-
 当前项目名称:简单物体识别
 1.原理
 2.应用
