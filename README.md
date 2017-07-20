@@ -8,9 +8,9 @@
 
 
 <center> <img src="http://www.baidu.com/img/bdlogo.gif"> </center>
+[              百度][id]
 
-
-<center>[              百度](http://baidu.com)</center>
+<center>[id](http://baidu.com)</center>
 
 
 ```markdown
