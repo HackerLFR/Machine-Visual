@@ -6,7 +6,7 @@
 [My Project Web](https://github.com/HackerLFR/Machine-Visual) to use the Project.
 
 # 欢迎来到LFR的博客
-![](https://github.com/HackerLFR/Machine-Visual/blob/master/2015031561739629.gif)
+![](https://github.com/HackerLFR/Machine-Visual/raw/master/2015031561739629.gif)
 
 
 ```markdown
