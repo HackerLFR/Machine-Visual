@@ -7,7 +7,7 @@
 
 # 欢迎来到LFR的博客
 
-<div align=center><src="http://www.baidu.com/img/bdlogo.gif"/></div>
+<div align=center><image src="http://www.baidu.com/img/bdlogo.gif"></div>
 
 ![baidu](http://www.baidu.com/img/bdlogo.gif)
 
