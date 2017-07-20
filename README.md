@@ -6,7 +6,7 @@
 [My Project Web](https://github.com/HackerLFR/Machine-Visual) to use the Project.
 
 # 欢迎来到LFR的博客
-![baidu](http://www.baidu.com/img/bdlogo.gif)
+![baidu](http://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89&step_word=&hs=0&pn=121&spn=0&di=117671948350&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=2&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=1153803345%2C408098051&os=459477207%2C2508270881&simid=3458934456%2C370947934&adpicid=0&lpn=0&ln=1961&fr=&fmq=1500586314852_R&fm=result&ic=0&s=undefined&se=&sme=&tab=0&width=&height=&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fcvchina.net%2Fzb_users%2Fupload%2F2015%2F3%2F2015031561739629.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fkkf_z%26e3Bvevitgw_z%26e3BgjpAzdH3Fr5fpAzdH3F8db_z%26e3Bip4s&gsm=5a&rpstart=0&rpnum=0)
 
 
 ```markdown
