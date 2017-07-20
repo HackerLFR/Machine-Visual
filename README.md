@@ -8,10 +8,8 @@
 
 
 <center> <img src="http://www.baidu.com/img/bdlogo.gif"> </center>
-[              百度][id]
-
+<div class="text">这里是想要居中的文字</div>
 <center>[id](http://baidu.com)</center>
-
 
 ```markdown
 Syntax highlighted code block
