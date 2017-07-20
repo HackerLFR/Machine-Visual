@@ -4,7 +4,6 @@
 
 # 欢迎来到LFR的博客:
 
-
 <center> <img src="http://www.baidu.com/img/bdlogo.gif"> </center>
 <a href="http://www.baidu.com"><center>百度</center></a>
 
@@ -13,7 +12,7 @@
 
 Syntax highlighted code block
 
-
+ 
 # Header 1
 ## Header 2
 ### Header 3
