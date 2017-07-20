@@ -1,13 +1,13 @@
-   ## Welcome to LFR's GitHub Pages
-
+## Welcome to LFR's GitHub Pages
 ![](https://github.com/HackerLFR/Machine-Visual/raw/master/2015031561739629.gif)
-
 ## If you speak English, Please go ahead: 
 [My Project Web](https://github.com/HackerLFR/Machine-Visual) to use the Project.
 
+
+
 # 欢迎来到LFR的博客
 ![baidu](http://www.baidu.com/img/bdlogo.gif)
-[![baidu]](https://baidu.com)  
+[![baidu]]:(http://baidu.com)
 ```markdown
 Syntax highlighted code block
 
