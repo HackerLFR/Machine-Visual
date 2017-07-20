@@ -1,6 +1,6 @@
 ## Welcome to LFR's GitHub Pages!
 ![](https://github.com/HackerLFR/Machine-Visual/raw/master/2015031561739629.gif)
-## If you speak English, Please go ahead:<a href="https://github.com/HackerLFR/Machine-Visual">  <center>My Project Web</center></a>
+## If you speak English, Please go ahead: <a href="https://github.com/HackerLFR/Machine-Visual">  <center>My Project Web</center></a>
 
 # 欢迎来到LFR的博客:
 
