@@ -27,15 +27,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+开源版权归属于开发者,不得商业用途,使用时需加:注转载于原创开发者的项目网址,否者视为侵权!
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HackerLFR/Machine-Visual/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
