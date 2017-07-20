@@ -8,8 +8,8 @@
 # 欢迎来到LFR的博客
 
 
-
-<center> ![baidu](http://www.baidu.com/img/bdlogo.gif) </center>
+![baidu](http://www.baidu.com/img/bdlogo.gif)
+<center>da</center>
 
 
 [              百度](http://baidu.com)
