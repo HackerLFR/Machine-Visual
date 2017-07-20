@@ -6,6 +6,8 @@
 
 
 # 欢迎来到LFR的博客
+
+
 ![baidu](http://www.baidu.com/img/bdlogo.gif)
 
 [百度](http://baidu.com)
