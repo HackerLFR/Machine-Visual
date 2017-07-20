@@ -9,7 +9,7 @@
 
 
 
-<center>![baidu](http://www.baidu.com/img/bdlogo.gif)</center>
+<center> ![baidu](http://www.baidu.com/img/bdlogo.gif) </center>
 
 
 [              百度](http://baidu.com)
