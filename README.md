@@ -5,6 +5,15 @@
 
 ## 欢迎来到LFR的博客:
 
+<table width="600" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="26">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="26">&nbsp;</td>
+  </tr>
+</table>
+
 <center> <img src="http://www.baidu.com/img/bdlogo.gif"> </center>
 <a href="http://www.baidu.com"><center> <font size="2"> 百度</font> </center></a>
 
