@@ -4,13 +4,12 @@
 <a href="https://github.com/HackerLFR/Machine-Visual">  <center> <font size="6">My Project Web</font> </center></a>
 
 ## 欢迎来到LFR的博客:
-<font color="#FF0000">www.divcss5.com 红色</font>
 <center> <img src="http://www.baidu.com/img/bdlogo.gif"> </center>
 <a href="http://www.baidu.com"><center> <font size="3"> 百度</font> </center></a>
 #### ACM算法
-<font color="#000000" size="3">动态规划</font><br/>
-<font color="#ff0f0f" size="2">树形DP</font>
-><a href="https://github.com/HackerLFR/Machine-Visual/raw/master/ACM算法原理与程序模板//树形DP/树的基础知识"> <font color="#0000ff" size="2"> 树的基础知识</font> </a>
+<font color="#000000" size="3">动态规划</font>
+><font color="#ff0f0f" size="2">树形DP</font>
+>><a href="https://github.com/HackerLFR/Machine-Visual/raw/master/ACM算法原理与程序模板//树形DP/树的基础知识"> <font color="#0000ff" size="2"> 树的基础知识</font> </a>
   
 
 ```markdown
