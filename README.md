@@ -8,7 +8,6 @@
 <center> <img src="http://www.baidu.com/img/bdlogo.gif"> </center>
 <a href="http://www.baidu.com"><center> <font size="2"> 百度</font> </center></a>
 
-
 <center> <font size="4">ACM算法</font> </center>
 <font size="3">动态规划</font>
 <font size="3">树形DP</font>
