@@ -6,7 +6,8 @@
 ## 欢迎来到LFR的博客:
 <center> <img src="http://www.baidu.com/img/bdlogo.gif"> </center>
 <a href="http://www.baidu.com"><center> <font size="3"> 百度</font> </center></a>
-#### ACM算法
+#### ACM算法 
+<br/>
 ><font color="#000000" size="3">数据结构</font>
 >><font color="#000000" size="2">并查集</font> <br/>
 >><font color="#000000" size="2">线段树</font> <br/>
