@@ -11,10 +11,10 @@
 <br/>
 
 > <font color="#000000" size="3">数据结构</font>
->> <font color="#ff0f0f" size="1">并查集</font> <br/>
+>> <font color="#ff0f0f" size="1">并查集</font>
 >>> <a href="https://github.com/HackerLFR/Machine-Visual/raw/master/ACM算法原理与程序模板/Data Structure/Union-Find Sets/算法原理与应用(加模板代码)"> <font color="#0000ff" size="1"> 算法原理与应用</font> </a> <br/>
 
->> <font color="#ff0f0f" size="1">线段树</font> <br/>
+>> <font color="#ff0f0f" size="1">线段树</font>
 
 > <font color="#000000" size="3">RMQ(范围最大/最小值查询)</font> <br/>
 
