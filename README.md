@@ -8,7 +8,6 @@
 <a href="http://www.baidu.com"><center> <font size="3"> 百度</font> </center></a> <br> 
 
 #### ACM算法
-
 <br/>
 > <font color="#000000" size="3">数据结构</font>
 >> <font color="#ff0f0f" size="2">并查集</font> <br/>
