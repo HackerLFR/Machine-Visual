@@ -19,7 +19,6 @@
 > <font color="#000000" size="3">RMQ(范围最大/最小值查询)</font> <br/>
 
 
-
 > <font color="#000000" size="3">图论</font> <br/>
 
 > <font color="#000000" size="3">动态规划</font>
